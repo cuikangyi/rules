@@ -1,0 +1,18 @@
+# NAME: ClickUp
+payload:
+  - DOMAIN-SUFFIX,clickup.com
+  - DOMAIN,clickup-au.com
+  - DOMAIN,amazonses.com
+  - DOMAIN-SUFFIX,p.clickup-attachments.com
+  - DOMAIN,codox.io
+  - DOMAIN,proxy.clickup.codox.io
+  - DOMAIN,pendo.io
+  - DOMAIN,intercom.io
+  - DOMAIN,exchangeratesapi.io
+  - DOMAIN,sdk.split.io
+  - DOMAIN,auth.split.io
+  - DOMAIN,streaming.split.io
+  - DOMAIN-SUFFIX,datadoghq.com
+  - DOMAIN,search.clickup-prod.com
+  - DOMAIN,search.clickup-eu.com
+  - DOMAIN,search.clickup-sg.com
