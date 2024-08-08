@@ -15,3 +15,4 @@ DOMAIN-SUFFIX,datadoghq.com
 DOMAIN,search.clickup-prod.com
 DOMAIN,search.clickup-eu.com
 DOMAIN,search.clickup-sg.com
+DOMAIN-KEYWORD,clickup
